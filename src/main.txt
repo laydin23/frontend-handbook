@@ -1,2 +1,3 @@
 Our handbook based on 10 years of experience in Frontend/JS development
 # match the style used in the rest of the module
+# clarify the control flow
